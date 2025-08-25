@@ -18,9 +18,10 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL
     - [Covid 19 Data Exploration](https://github.com/marcos-the-analyst/Portfolio-Projects/blob/main/COVID%20Portfolio%20Project.sql)
     - [Nashville Housing Data Cleaning](https://github.com/marcos-the-analyst/Portfolio-Projects/blob/main/Data%20Cleaning%20Project%20Queries_%20Nashville%20Housing.sql)
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+  - Excel
+    - [Bike Sales Dashboard](https://github.com/marcos-the-analyst/Portfolio-Projects/blob/main/Excel%20Bike%20Sales%20Project%20Dataset.xlsx)
   - Power BI
+    - [HR Analytics Dashboard](https://github.com/marcos-the-analyst/Portfolio-Projects/blob/main/HR%20Analytics.pbix)
   
 
 
