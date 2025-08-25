@@ -60,7 +60,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/marcos-the-analyst/Portfolio-Projects/blob/main/Data%20Cleaning%20Project%20Queries_%20Nashville%20Housing.sql)
 
 **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
@@ -71,30 +71,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+**Code:** [`COVID Portfolio Project.sql`](https://github.com/marcos-the-analyst/Portfolio-Projects/blob/main/COVID%20Portfolio%20Project.sql)
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
 **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 **Technology:** SQL Server
-
-
-
-### Legendary Pokémon Analysis
-
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
-
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
-
-
-
 
 
 ## Education
