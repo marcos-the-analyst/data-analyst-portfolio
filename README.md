@@ -22,12 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Bike Sales Dashboard](https://github.com/marcos-the-analyst/Portfolio-Projects/blob/main/Excel%20Bike%20Sales%20Project%20Dataset.xlsx)
   - Power BI
     - [HR Analytics Dashboard](https://github.com/marcos-the-analyst/Portfolio-Projects/blob/main/HR%20Analytics.pbix)
-  
 
-
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
