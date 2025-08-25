@@ -11,8 +11,7 @@ My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/marcos-the-analyst/Portfolio-Projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/marcos-the-analyst/Portfolio-Projects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
     - [Tech Store Sales Analysis](https://github.com/marcos-the-analyst/Portfolio-Projects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)  
